@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>JWTGenerator</members>
+        <members>S1BarcodeScannerController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>S1BarCodeScannerVF</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>JWTGeneratorApp</members>
+        <members>JWTGeneratorComponent</members>
+        <members>S1BarcodeScanner</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>S1JWTAuth__mdt</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>S1JWTAuth__mdt-S1JWTAuth Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>34.0</version>
+</Package>
